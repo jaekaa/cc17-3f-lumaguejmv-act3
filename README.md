@@ -1,4 +1,4 @@
-![Tip Calculator App](/app/src/main/res/drawable/sample_img.png)
+![Dice Roller App](/app/src/main/res/drawable/sample_img.png)
 
-# Tip Calculator App
-An interactive tip calculator — an app that is made on Android Studio.<br/>
+# Dice Roller App
+An interactive Android app — that lets users roll a dice and shows them the result of the roll.<br/>
